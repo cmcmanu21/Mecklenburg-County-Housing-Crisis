@@ -28,7 +28,15 @@ Objective 4.) The data used for this analysis was the quarterly vacancy percenta
 To determine whether the vacancy rate was classified as “high” or “low”, another method was used called the Jenks Natural Breaks Classification Method (Jenks Method) and finds the “natural” classes in the data (Ahmad, 2019). Using the Jenks method is ideal when classifying data because classes that are created better represent the data at hand. This method determined that for 1-bedroom properties “high” vacancy rates were those above 6.5% and low rates were those below 4.6%. For 2-bedroom properties, “high” rates were above 6.9% and “low” rates were below 4.9%. Lastly, for 3-bedroom properties, “high” rates were above 7.1% and “low” rates were below 4.8%. The time series plots were then supplemented with additional geospatial visualizations with “high” values represented in shades of red and “low” values represented in shades of green.
 
 ----
-Results: The results for each objective can be found in the ... file.
+Objective Results:
+
+Objective 1.) Click on this link https://docs.google.com/document/d/1B_PHOpynFUY_AHSTB7wtvo4mQWsH6CkodzoPG4tbt3s/edit?usp=sharing to be directed to the summary of the random forest feature importance
+
+Objective 2.) Click on this link https://docs.google.com/document/d/13f6r65OYx54hgRSIQrLte6QdRFQQNfYytzAQDK5YAGw/edit?usp=sharing to be directed to the summary of each Moran's I model
+
+Objective 3.) Click on this link https://public.tableau.com/views/HeatMapAnalysisofEffectiveRentGrowth/1BedroomEffectiveGrowth?:language=en-US&:display_count=n&:origin=viz_share_link to be directed to each heat map model
+
+Objective 4.) Click on this link https://public.tableau.com/views/TimeSeriesAnalysisofQuarterlyVacancyRate_16513538854440/TimeSeries1Bed?:language=en-US&:display_count=n&:origin=viz_share_link to be directed to each time series model
 
 ----
 Data Sources:
