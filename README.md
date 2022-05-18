@@ -4,7 +4,7 @@ Author: Christopher McManus
 ----
 Overview:
 
-At UNC Charlotte's School of Data Science, each student is required to complete a data science & business analytics related internship. I worked with Dr. Jean-Claude Thill and Faizeh Hatami of UNC Charlotte's Department of Geography & Earth Sciences during the spring 2022 semester. We took a look at Mecklenburg County's quarterly rental market data across 1-, 2-, and 3-Bedroom properties between 2000 and 2020. Our goal was to accomplish four objectives during this semester:
+At UNC Charlotte's School of Data Science, each student is required to complete a data science & business analytics-related internship. I worked with Dr. Jean-Claude Thill and Faizeh Hatami of UNC Charlotte's Department of Geography & Earth Sciences during the spring 2022 semester. We took a look at Mecklenburg County's quarterly rental market data across 1-, 2-, and 3-Bedroom properties between 2000 and 2020. Our goal was to accomplish four objectives during this semester:
 
 1.) Identify location-based features influencing the effective rent, or price someone pays in rent per month, using a random forest model for the year 2019 between each property segment. 
 
