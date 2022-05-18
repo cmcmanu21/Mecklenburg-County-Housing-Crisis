@@ -38,6 +38,8 @@ Objective 3.) Click on this link https://public.tableau.com/views/HeatMapAnalysi
 
 Objective 4.) Click on this link https://public.tableau.com/views/TimeSeriesAnalysisofQuarterlyVacancyRate_16513538854440/TimeSeries1Bed?:language=en-US&:display_count=n&:origin=viz_share_link to be directed to the results of each time series model
 
+For in-depth results and analyses of each objective, please download the "Objective Results and Analyses" file! 
+
 ----
 Data Sources:
 
